@@ -1,4 +1,4 @@
-# agentic-workflow-patterns
+# coding-agent-work-patterns
 
 Patterns for working with coding agents productively. How to scope work, validate output, recover from stuck agents, and know when to take over.
 
